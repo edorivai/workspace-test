@@ -1,5 +1,7 @@
 # `Yarn add` with workspaces bug showcase
 
+See https://github.com/yarnpkg/yarn/issues/4513
+
 Steps I followed:
 
 1. Create an empty directory(`workspace-1`), and add a minimal `package.json` file.
