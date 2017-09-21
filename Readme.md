@@ -1,4 +1,4 @@
-# `Yarn add` bug showcase
+# `Yarn add` with workspaces bug showcase
 
 Steps I followed:
 
