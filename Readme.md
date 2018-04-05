@@ -25,6 +25,7 @@ While I would have expected
 /workspace-1
 ```
 With node modules being installed at the root level.
+
 5. Now running `yarn` at the root directory installs the `lodash.assign` dependency at the root.
 
 
